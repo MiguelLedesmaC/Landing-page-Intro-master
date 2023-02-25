@@ -1,4 +1,4 @@
-# Landing-page-Intro-master
+# Landing Page Intro 
 
 ## Bievenido 👋
 
@@ -15,7 +15,7 @@ Tiene su menu hamburguesa para mobil y tablet y su nav superior para desktop
 * ✔️[Portofolio](https://miguelledesmac.github.io/Portofolio-Oficial/)
 
 ## Ver ejemplo en vivo
-✔️[Demo](ENLACEGITHUBPAGES)
+✔️[Demo](https://miguelledesmac.github.io/Landing-page-Intro-master/)
 
 ## Instalacion
 Este proyecto no necesita instalacion. simplemente abre la carpeta o haz doble click en la demo
@@ -23,5 +23,4 @@ Este proyecto no necesita instalacion. simplemente abre la carpeta o haz doble c
 ## Contacto
 Si quieres contactarme puedes escribirme a angelmiguellc35@gmail.com
 
-## Licencia
-MIT Public License v3.0
+
